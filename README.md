@@ -85,7 +85,6 @@ It is an assignment project for Advisoropedia.
 2. Install dependencies for both backend and frontend: `npm install` in `/frontend` and `/backend`.
 3. Set up your database and configure environment variables for backend.
 ```bash
-PORT = 
 MONGODB_URL = 
 JWT_SECRET = 
 JWT_TOKEN_EXPIRY = 
