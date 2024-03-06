@@ -81,7 +81,7 @@ It is an assignment project for Advisoropedia.
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/melodyverse.git`
+1. Clone the repository: `git clone https://github.com/mananc12/Advisoropedia-AllPost.com-assignement.git`
 2. Install dependencies for both backend and frontend: `npm install` in `/frontend` and `/backend`.
 3. Set up your database and configure environment variables for backend.
 ```bash
