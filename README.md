@@ -24,15 +24,15 @@ It is an assignment project for Advisoropedia.
 
 ### Backend
 
-- `/server`: Backend server files
-  - `/server/routes`: Express.js route definitions
-  - `/server/controllers`: Logic for handling routes
-  - `/server/models`: Database models
+- `/backend`: Backend server files
+  - `/backend/routes`: Express.js route definitions
+  - `/backend/controllers`: Logic for handling routes
+  - `/backend/models`: Database models
 
 ### Frontend
 
-- `/client`: React.js frontend files
-  - `/client/src/components`: React components
+- `/frontend`: React.js frontend files
+  - `/frontend/src/components`: React components
 
 ## Features
 
@@ -90,4 +90,4 @@ MONGODB_URL =
 JWT_SECRET = 
 JWT_TOKEN_EXPIRY = 
 ```
-4. Run the project: `npm start` in both `/server` and `/client`.
+4. Run the project: `npm start` in `/frontend` and `node app.js` in `/backend`.
