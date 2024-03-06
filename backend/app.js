@@ -24,7 +24,7 @@ app.use("/api", router);
 
 app.use(errorMiddleware);
 
-const PORT = process.env.PORT || 5000;
+const PORT = 5000;
 
 connectDB()
   .then(() =>
